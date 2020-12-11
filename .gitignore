@@ -12,3 +12,6 @@
 .rspec_status
 
 .env
+
+# IDE related files
+.idea
